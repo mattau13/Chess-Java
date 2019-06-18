@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=isBlack
+comment0.target=Piece(boolean)
+comment1.params=
+comment1.target=void\ captured()
+comment10.params=
+comment10.target=java.lang.String\ getName()
+comment11.params=
+comment11.target=int\ getMoveCount()
+comment2.params=
+comment2.target=java.awt.image.BufferedImage\ getImage()
+comment3.params=string
+comment3.target=java.awt.image.BufferedImage\ loadBufferedImage(java.lang.String)
+comment4.params=
+comment4.target=boolean\ isBlack()
+comment5.params=isBlack
+comment5.target=void\ setBlack(boolean)
+comment6.params=
+comment6.target=boolean\ getIsBlack()
+comment7.params=x\ y
+comment7.target=boolean\ check(int,\ int)
+comment8.params=x\ y
+comment8.target=double\ move(int,\ int)
+comment9.params=x\ y
+comment9.target=void\ checkPromote(int,\ int)
+numComments=12

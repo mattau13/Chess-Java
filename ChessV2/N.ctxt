@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=title
+comment0.target=N(java.lang.String)
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ loadBoard()
+comment3.params=
+comment3.target=void\ calcWhite()
+comment4.params=
+comment4.target=void\ calcBlack()
+numComments=5

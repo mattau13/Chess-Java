@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=isBlack\ x\ y
+comment0.target=King(boolean,\ int,\ int)
+comment1.params=
+comment1.target=java.awt.image.BufferedImage\ getImage()
+comment2.params=x\ y
+comment2.target=double\ move(int,\ int)
+comment3.params=x\ y
+comment3.target=boolean\ check(int,\ int)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+numComments=5
