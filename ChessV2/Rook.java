@@ -1,8 +1,3 @@
-/*
- * Matt Au
- * APCSA Per. 3A
- * May 2017
-*/
 import java.awt.image.BufferedImage;
 
 public class Rook extends Piece {
