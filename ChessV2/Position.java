@@ -1,8 +1,3 @@
-/*
- * Matt Au
- * APCSA Per. 3A
- * May 2017
-*/
 public class Position {
 	private int x;
 	private int y;
