@@ -1,9 +1,3 @@
-/*
- * Matt Au
- * APCSA Per. 3A
- * May 2017
-*/
-
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
