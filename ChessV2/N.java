@@ -1,8 +1,3 @@
-/*
- * Matt Au
- * APCSA Per. 3A
- * May 2017
-*/
 import java.awt.Dimension;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
@@ -65,13 +60,5 @@ public class N extends JFrame{
 		chessBoard[1][7] = new Knight(false, 1, 7);
 		chessBoard[6][7] = new Knight(false, 6, 7);
 		
-	}
-	
-	public static void calcWhite(){
-		return;
-	}
-	public static void calcBlack(){
-		return;
-	}
-	
+	}	
 }
