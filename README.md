@@ -12,6 +12,7 @@ This application is a work-in-progress and will be constantly updated at varying
 - Create a reset functionality to set all pieces to their default positions.
 - Occasionally, users may have to click on an empty piece to reset the piece selection. This error has an unknown cause and will be fixed as soon as possible.
 - Pieces created using gimp, currently looking to update the piece models to enhance the game aesthetically.
+- Develop an artificial intelligence to play Chess.
 
 
 # Screenshots
